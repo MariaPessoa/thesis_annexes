@@ -1,9 +1,9 @@
 # thesis_annexes
 Software developed and main results obtained in the Master dissertation in Bioinformatics: 
-A model validation pipeline for healthy tissue genome-scale metabolic models. 
+<br>A model validation pipeline for healthy tissue genome-scale metabolic models. 
 
-Abstract
-In the past few years, high-throughput experimental methods have made omics data available for several
+Abstract:
+<br>In the past few years, high-throughput experimental methods have made omics data available for several
 layers of biological organization, enabling the integration of knowledge from individual components into
 complex modelssuch as genome-scale metabolic models (GSMMs). These can be analysed by constraintbased modelling (CBM) methods, 
 which facilitate in silico predictive approaches.
